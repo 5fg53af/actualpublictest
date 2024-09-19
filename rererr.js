@@ -11,3 +11,5 @@ sdfs@gmail.com
 access_key: "axEQei2jcie434f3cncswic"
 bintray_gpg_password: "loDHHrdgsrves"
 access_key: "$IF#JCSCWCI@(#@$#%"
+fidsaifdsajf:rferf.js.map,frieiev
+fsfs.js.map
