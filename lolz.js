@@ -13,3 +13,20 @@ bintray_gpg_password: "loDHHrdgsrves"
 access_key: "$IF#JCSCWCI@(#@$#%"
 fidsaifdsajf:rferf.js.map,frieiev
 fsfs.js.map
+window.addEventListener("message", (event) => {
+  if (event.origin !== "http://example.org:8080")
+    return;
+
+  // ...
+}, false);
+
+window.addEventListener("message", (event) => {
+  if (event.origin !== "http://example.org:8080")
+    return;
+
+  // ...
+}, false);
+window.addEventListener("message", (event) => 
+
+  // ...
+}, false);
