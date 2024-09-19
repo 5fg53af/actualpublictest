@@ -19,9 +19,9 @@ window.addEventListener("message", (event) => {
 alert(1)
 }, false);
 
-window.addEventListener("message", (event) => {
-  alert(1)
-}, false);
+window.addEventListener('message', function(event) {
+    alert(1);
+});
 
 targetWindow.postMessage(message, "https://domain1.com");
 
