@@ -16,17 +16,15 @@ fsfs.js.map
 window.addEventListener("message", (event) => {
   if (event.origin !== "http://example.org:8080")
     return;
-
-  // ...
+alert(1)
 }, false);
 
 window.addEventListener("message", (event) => {
-  if (event.origin !== "http://example.org:8080")
-    return;
-
-  // ...
+  alert(1)
 }, false);
-window.addEventListener("message", (event) => 
 
-  // ...
-}, false);
+targetWindow.postMessage(message, "https://domain1.com");
+
+targetWindow.postMessage(message, "*");
+
+targetWindow.postMessage(message, *);
