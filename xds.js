@@ -28,3 +28,10 @@ targetWindow.postMessage(message, "https://domain1.com");
 targetWindow.postMessage(message, "*");
 
 targetWindow.postMessage(message, *);
+
+192.121.222.1
+12.22.33.2
+  24.32.2.3
+  86.34.211.23
+s3://lol.test
+kcdcs.s3.amazonaws.com
